@@ -20,7 +20,7 @@ This presumes that your "dev home" directory on the host system is located at `/
 Now you can log into your Heroku account:
 
 ```
-hdev@<container-id>:~$ heroku login
+hdev@cb84b9b388b8:~$ heroku login
 Enter your Heroku credentials.
 Email: joe@example.org
 Password (typing will be hidden): 
