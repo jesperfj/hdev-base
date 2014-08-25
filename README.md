@@ -51,3 +51,7 @@ hdev@860ee57d1fff:~$ heroku apps
 
 There you have it: a nicely isolated environment for developing and deploying Heroku apps. We can now extend this base container for a particular language stack, [like Java](https://github.com/jesperfj/hdev-java).
 
+## TODO
+
+* Nice configuration of ssh-agent so keys can have passphrases and not prompt all the time.
+
